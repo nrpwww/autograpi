@@ -1,0 +1,7 @@
+如何運作
+
+1. 下載 PYDROID 應用程式
+
+2. 安裝 PILLOW 和 INSTAGRAPI
+
+3. 運行 AUTOGRAPI
